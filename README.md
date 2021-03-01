@@ -1,5 +1,9 @@
 # Python PCEP
 
+![alt text](https://www.hrsmartinstitute.com/cabeceras/cabecera-1904.jpg)
+
+
+
 ### Temas abordados en este curso.
 
 * Introducción a Python y programación de computadoras.
